@@ -88,7 +88,7 @@
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card shadow-sm text-center">
               <div class="icon-wrapper mx-auto mt-3">
-                <img src="/assets/image/PPLG.png" alt="TJKT" class="icon-img" />
+                <img src="/assets/image/pplg.png" alt="PPLG" class="icon-img" />
               </div>
               <div class="card-body">
                 <h5 class="card-title">PPLG</h5>

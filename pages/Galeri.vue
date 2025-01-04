@@ -8,35 +8,35 @@
 
     <section class="gallery">
       <div class="gallery-item">
-        <img src="/assets/image/PPLG.png" alt="PPLG" class="gallery-image" />
+        <img src="/assets/image/pplg.png" alt="PPLG" class="gallery-image" />
         <p class="gallery-caption"><b>RPS PPLG</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/Tkj.png" alt="TKJT" class="gallery-image" />
+        <img src="/assets/image/tkj.png" alt="TKJT" class="gallery-image" />
         <p class="gallery-caption"><b>RPS TJKT</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/DKVrg.png" alt="DKV" class="gallery-image" />
+        <img src="/assets/image/dkvrg.png" alt="DKV" class="gallery-image" />
         <p class="gallery-caption"><b>>RPS DKV</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/Tsm.png" alt="TBSM" class="gallery-image" />
+        <img src="/assets/image/tsm.png" alt="TBSM" class="gallery-image" />
         <p class="gallery-caption"><b>Bengkel TBSM</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/Komite.png" alt="Ruangan Komite" class="gallery-image" />
+        <img src="/assets/image/komite.png" alt="Ruangan Komite" class="gallery-image" />
         <p class="gallery-caption"><b>RUANGAN KOMITE</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/PERPUS.png" alt="Perpus" class="gallery-image" />
+        <img src="/assets/image/perpus.png" alt="Perpus" class="gallery-image" />
         <p class="gallery-caption"><b>PERPUSTAKAAN</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/AULA.png" alt="AULA" class="gallery-image" />
+        <img src="/assets/image/aula.png" alt="AULA" class="gallery-image" />
         <p class="gallery-caption"><b>SMKN 4 Tasikmalaya</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/SENI.png" alt="seni" class="gallery-image" />
+        <img src="/assets/image/seni.png" alt="seni" class="gallery-image" />
         <p class="gallery-caption"><b>RUANG SENI</b></p>
       </div>
     </section>

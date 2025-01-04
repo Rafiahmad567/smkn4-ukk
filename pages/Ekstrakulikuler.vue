@@ -49,7 +49,7 @@
       <!-- Card 4 -->
       <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
         <div class="card">
-          <img src="/assets/image/PKS.png" class="card-img-top" alt="PKS" />
+          <img src="/assets/image/pks.png" class="card-img-top" alt="PKS" />
           <div class="card-body">
             <h5 class="card-title text-center">PKS</h5>
           </div>
